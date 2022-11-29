@@ -13,8 +13,10 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.border.Border;
-
+//comment added
 public class Calculator {
+	
+	
 JFrame frame=new JFrame();
 JPanel panel=new JPanel();
 JTextArea textarea=new JTextArea(2,10);
